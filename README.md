@@ -83,3 +83,6 @@ Interacting with the Application:
 - Frontend-Backend Connection: Check that the paths in index.js for importing backend functions are correctly set.
 - Browser Console Errors: Look for any errors in the browser console.
 - Function Name Consistency: Ensure that the function names in index.js match those in main.mo.
+
+## Screenshot
+- <img width="775" alt="Screenshot 2024-01-08 at 4 36 58 PM" src="https://github.com/shovo4/dbank/assets/58551093/149f1636-0dc8-4933-b9eb-a51af3944fd0">
